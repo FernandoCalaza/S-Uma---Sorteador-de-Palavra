@@ -9,3 +9,7 @@ https://fernandocalaza.github.io/S-Uma---Sorteador-de-Palavra/
 Escaneie a imagem abaixo com a câmera do celular para jogar. Você pode baixar e imprimir este QR Code para colar na caixa ou no manual do seu PnP:
 
 ![QR Code do Sorteador](qrcode.jpeg)
+
+Obs:
+Manuais podem ser obtidos na ludopédia: https://ludopedia.com.br/jogo/just-one?v=arquivos/
+Canetas e cavaletes são facilmente encontrados no Google: "Canetas para Quadro Branco Com Apagador De Espuma" e "Display Expositor Prisma Mesa Ps Acrílico Branco"
