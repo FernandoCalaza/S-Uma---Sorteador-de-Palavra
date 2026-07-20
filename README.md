@@ -8,4 +8,4 @@ https://fernandocalaza.github.io/S-Uma---Sorteador-de-Palavra/
 
 Ou escaneie o QR Code (qrcode.jpeg) dentro do repositório, sinta-se livre para imprimir e colar na caixa do seu jogo:
 
-![QR Code do Sorteador]([qrcode-pnp.jpeg](https://github.com/FernandoCalaza/S-Uma---Sorteador-de-Palavra/blob/main/qrcode.jpeg))
+![QR Code do Sorteador](qrcode.jpeg)
