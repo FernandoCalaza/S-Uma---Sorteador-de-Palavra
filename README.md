@@ -6,4 +6,6 @@ Este projeto é um sorteador digital leve e direto para a versão Print & Play d
 Acesse diretamente pelo link:
 https://fernandocalaza.github.io/S-Uma---Sorteador-de-Palavra/
 
-Ou escaneie o QR Code (qrcode.jpeg) dentro do repositório, sint-se livre para imprimir e colar na caixa do seu jogo
+Ou escaneie o QR Code (qrcode.jpeg) dentro do repositório, sinta-se livre para imprimir e colar na caixa do seu jogo:
+
+![QR Code do Sorteador](qrcode-pnp.jpeg)
