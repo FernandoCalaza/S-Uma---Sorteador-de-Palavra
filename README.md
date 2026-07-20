@@ -12,4 +12,5 @@ Escaneie a imagem abaixo com a câmera do celular para jogar. Você pode baixar 
 
 Obs:
 Manuais podem ser obtidos na ludopédia: https://ludopedia.com.br/jogo/just-one?v=arquivos/
+
 Canetas e cavaletes são facilmente encontrados no Google: "Canetas para Quadro Branco Com Apagador De Espuma" e "Display Expositor Prisma Mesa Ps Acrílico Branco"
